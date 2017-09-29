@@ -1,10 +1,10 @@
 # === Instalação no Linux ===
 Sigep para linux funcional em ubuntu 16.04
 
-
-
 <br><b><u>Siga os passos a seguir para a instalação (somente cliente)</u></b><br>
 <br>
+
+Baixe o programa clonando ou baixando o arquivo deste repositório. <br>
 
 Entre no diretório sigepclient/sigepcliente <b> comando cd /tmp/sigepclient/sigepcliente </b> <br><br>
 De permição de execução no scirpt  install_sigep.sh utilizando o comando <b> sudo chmod +x  install_sigep.sh </b><br><br>
