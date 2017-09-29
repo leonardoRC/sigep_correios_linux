@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Sigep
+Comment=sigep
+Exec=/opt/sigepclient/sigepcliente/sigep.sh
+Icon=/opt/sigepclient/sigepcliente/img/favicon_transparente.png
+Categories=PMCS
+Terminal=false
+StartupNotify=true
+
